@@ -1,4 +1,5 @@
 airflow.db
+airflow.cfg
 logs/
 *.pid
 *.err
