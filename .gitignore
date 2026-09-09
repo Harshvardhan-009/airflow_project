@@ -1,0 +1,11 @@
+airflow.db
+logs/
+*.pid
+*.err
+*.out
+simple_auth_manager_passwords.json.generated
+__pycache__/
+*.pyc
+.env
+airflow_venv/
+.DS_Store
